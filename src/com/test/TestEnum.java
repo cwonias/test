@@ -9,6 +9,8 @@ public enum TestEnum {
         this.value = val;
 		//Change in master 1.
 		//Change in master 2.
+		//Change in Branch_1 1.
+		//Change in Branch_1 2.
     }
     
     public String getValue(){
