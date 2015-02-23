@@ -6,7 +6,9 @@ public enum TestEnum {
     private String value;
     
     private TestEnum(String val){
-        this.value = val;	
+        this.value = val;
+		//Change in Branch_1 1.
+		//Change in Branch_1 2.
     }
     
     public String getValue(){
