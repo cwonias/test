@@ -14,5 +14,13 @@ public class Test {
        //Change in master 8 with rebase.	
 		//Change in Branch_1 1.
 		//Change in Branch_1 2.
+<<<<<<< HEAD
 }
+=======
+		//Change in Branch_1_3.
+		//Change in Branch_1_3.
+		//Change in Branch_1_4 with rebase.
+		//Change in Branch_1_5 with rebase.
+	}
+>>>>>>> Commit to Branch_1 with rebase
 }	
